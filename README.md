@@ -1,5 +1,5 @@
 ## Dataset 
-Provided by Kaggle, linked through project presentation
+Provided by Kaggle, linked through project presentation  
 Link: https://www.kaggle.com/datasets/unsdsn/world-happiness/data
 
 ## How to use project 
